@@ -1,5 +1,6 @@
 # RMI service
-##modificacion de las clases  registradas inicialmente desde alli se registra la respuesta del servidor
+#
+#modificacion de las clases  registradas inicialmente desde alli se registra la respuesta del servidor
 #
 #![image](https://user-images.githubusercontent.com/45238531/158088025-86d8a0fc-b19b-45af-b0eb-4ae86d5e6684.png)
 #
@@ -20,19 +21,42 @@
 #
 #![image](https://user-images.githubusercontent.com/45238531/158088690-ee121df2-3364-4992-b848-a7852fe78944.png)
 #
-#####
+#
+#
+#
+#
+#
 #enviando texto
-#####
+#
+#
+#
+#
+#
 #Recibe la respuesta desde el servidor, la cual contiene el mismo texto ingresado
 #![image](https://user-images.githubusercontent.com/45238531/158088912-3c6f83a3-5263-433c-a77b-e696f4d05f93.png)
 #
-#############
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #segundo envio de texto
 #![image](https://user-images.githubusercontent.com/45238531/158089036-aad33fd0-5ae4-4bc4-bfe6-f2f0bc8e0a54.png)
-#############
 #
-##########################################################
+############
+#
+#########################################################
+#
 #devuelve el mismo texto
 #
 #![image](https://user-images.githubusercontent.com/45238531/158089899-d7099b0e-a378-4825-abf2-dfb76cc53ccf.png)
-##########################################################
+#
+#########################################################
